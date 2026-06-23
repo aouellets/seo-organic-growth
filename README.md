@@ -1,8 +1,8 @@
 # SEO & Organic Growth Engine
 
-**Turn a keyword into ranked, AI-search-ready content — end to end.** — built in-house by [Skill&nbsp;Me](https://skillme.dev).
+**For SEO leads: take one keyword to a ranked, AI-search-ready page — research to refresh.** — built in-house by [Skill&nbsp;Me](https://skillme.dev).
 
-The organic-search workflow as skills: cluster keywords into a pillar/cluster architecture, classify search intent to the right page type, close SERP coverage gaps, write pixel-perfect titles and metas, map internal links for topical authority, engineer citable answer blocks for AI search (AEO/GEO), and refresh decaying content.
+Reach for this when you own a keyword and need it to actually rank and get cited — not just a pile of SEO tips. It runs the full organic-search loop as discrete, hand-off-able steps: cluster keywords into a pillar/cluster plan, lock the right page type to intent, close coverage gaps against what already ranks, ship click-earning titles and metas, wire internal links for topical authority, and engineer answer blocks that AI Overviews, ChatGPT, and Perplexity quote verbatim — then catch decaying pages before they slip. Use it to turn a keyword export into a publishing roadmap, or to diagnose why a well-built page won't move.
 
 ⭐ **If this is useful, star the repo** — it's how we gauge what to build next.
 
@@ -14,13 +14,13 @@ The organic-search workflow as skills: cluster keywords into a pillar/cluster ar
 
 ## Skills in this pack
 
-- **[Keyword Cluster Builder](skills/keyword-cluster-builder/SKILL.md)** — Groups a seed keyword list into topic clusters mapped to search intent and a pillar/cluster content architecture.
-- **[Search Intent Classifier](skills/search-intent-classifier/SKILL.md)** — Labels each query by search intent and recommends the right page type (blog, comparison, category, landing, or hub).
-- **[SERP Gap Analyzer](skills/serp-gap-analyzer/SKILL.md)** — Given 3-5 ranking competitor URLs for a target query, outputs the subtopics, entities, and questions a draft is missing.
-- **[Meta Title Optimizer](skills/meta-title-optimizer/SKILL.md)** — Writes title tags and meta descriptions within pixel and character limits with correct keyword placement and CTR-driving framing.
-- **[Internal Linking Mapper](skills/internal-linking-mapper/SKILL.md)** — Recommends internal links and anchor text between a new article and an existing content inventory to build topical authority.
-- **[AEO Answer Blockifier](skills/aeo-answer-blockifier/SKILL.md)** — Rewrites a section into concise, citable answer blocks optimized for AI answer engines and featured snippets (AEO/GEO).
-- **[Content Refresh Auditor](skills/content-refresh-auditor/SKILL.md)** — Diffs an aging article against current SERP intent and lists concrete update actions to recover or grow rankings.
+- **[Keyword Cluster Builder](skills/keyword-cluster-builder/SKILL.md)** — Collapses a raw keyword list into topic clusters and a pillar/cluster page architecture with one primary keyword and a prioritized build order per cluster.
+- **[Search Intent Classifier](skills/search-intent-classifier/SKILL.md)** — Label a keyword's dominant search intent and prescribe the page type (blog, comparison, category, landing, or hub) that can rank for it.
+- **[SERP Gap Analyzer](skills/serp-gap-analyzer/SKILL.md)** — Outputs the subtopics, entities, and questions a draft is missing versus the pages already ranking for its target query, classified by whether each gap is worth closing.
+- **[Meta Title Optimizer](skills/meta-title-optimizer/SKILL.md)** — Writes title tags and meta descriptions that fit SERP pixel and character limits, place the keyword for relevance, and frame the snippet to drive clicks.
+- **[Internal Linking Mapper](skills/internal-linking-mapper/SKILL.md)** — Maps internal links and anchor text between a new or updated article and an existing URL inventory to strengthen a topic cluster.
+- **[AEO Answer Blockifier](skills/aeo-answer-blockifier/SKILL.md)** — Rewrites a section or page into concise, self-contained answer blocks that AI answer engines and search snippets can lift and cite verbatim.
+- **[Content Refresh Auditor](skills/content-refresh-auditor/SKILL.md)** — Produces a prioritized refresh plan for a decaying published page — a refresh/consolidate/retire verdict plus ordered update actions to recover or grow rankings.
 - **[SEO Optimizer](skills/seo-optimizer/SKILL.md)** — Audits and rewrites content for search with keyword density, schema markup, and Core Web Vitals.
 - **[Content Brief](skills/content-brief/SKILL.md)** — Creates SEO content briefs: target keyword, intent, outline, internal links, word count.
 
